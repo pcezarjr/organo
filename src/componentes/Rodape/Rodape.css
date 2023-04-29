@@ -1,0 +1,19 @@
+.footer {
+    background: #6278F7 url(/public/imagens/fundo.png);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 80px;
+}
+.footer .social img {
+    margin: auto 16px;
+}
+.footer .texto {
+    color: #FFF;
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: right;
+}
